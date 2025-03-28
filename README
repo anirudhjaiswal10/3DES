@@ -1,0 +1,25 @@
+3DES Encryption Project
+This repository contains the implementation of the Triple Data Encryption Standard (3DES) algorithm along with various test files for evaluating its performance based on different cryptographic properties.
+
+Files and Descriptions
+Core Implementation
+des3.c → Main implementation of the 3DES encryption algorithm.
+des3.h → Header file containing function prototypes and definitions.
+des3.o → Compiled object file for 3DES.
+
+Cryptographic Property Tests
+des3_avalanche.c → Evaluates the Avalanche effect in 3DES.
+des3_correlation.c → Tests correlation properties of encrypted data.
+des3_entropy.c → Measures entropy per Feistel round.
+des3_rounds.c → Analyzes encryption strength based on different round configurations.
+
+Executables
+des3_avalanche.exe → Executable for avalanche effect testing.
+des3_correlation.exe → Executable for correlation analysis.
+des3_entropy.exe → Executable for entropy testing.
+des3_rounds.exe → Executable for round-based analysis.
+
+Testing and CBC Mode
+des3_test.c → Test file for 3DES encryption, includes Initialization Vector (IV) for CBC mode.
+des3_test.o → Compiled object file for 3DES testing.
+des3_test.exe → Executable for 3DES encryption testing.
