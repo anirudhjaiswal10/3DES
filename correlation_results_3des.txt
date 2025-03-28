@@ -1,0 +1,55 @@
+=== 3DES CBC Mode Correlation Results ===
+Iteration 1:
+Plaintext: 1B5AB58F99E26A38
+Ciphertext: 27A57A4F66D19534
+Correlation: -0.313783
+
+Iteration 2:
+Plaintext: 48D1A5C354A7E392
+Ciphertext: 84E25AC3A85BD361
+Correlation: -0.129412
+
+Iteration 3:
+Plaintext: 2B4725AA00787036
+Ciphertext: 178B1A5500B4B039
+Correlation: -0.036437
+
+Iteration 4:
+Plaintext: 48674B023F234401
+Ciphertext: 849B87013F138802
+Correlation: 0.200000
+
+Iteration 5:
+Plaintext: 64206BC8F9B5D510
+Ciphertext: 981097C4F67AEA20
+Correlation: -0.071921
+
+Iteration 6:
+Plaintext: 849E1B38517BD8C0
+Ciphertext: 486D2734A2B7E4C0
+Correlation: 0.054187
+
+Iteration 7:
+Plaintext: EE4E2FCFAD0142AE
+Ciphertext: DD8D1FCF5E02815D
+Correlation: 0.121569
+
+Iteration 8:
+Plaintext: 25DEBC4BB11548B7
+Ciphertext: 1AED7C87722A847B
+Correlation: -0.063539
+
+Iteration 9:
+Plaintext: F03A18A943C45FF8
+Ciphertext: F035245683C8AFF4
+Correlation: 0.186706
+
+Iteration 10:
+Plaintext: 528FD725885B3BCF
+Ciphertext: A14FEB1A44A737CF
+Correlation: 0.054187
+
+
+=== Overall Correlation Result ===
+Average Correlation: 0.000156
+Correlation Effect: 0.02%
